@@ -1,0 +1,32 @@
+MSSV: 22120120
+Tên Đặng Phúc Hưng
+
+-Xây dựng bố cục tổng quát gồm Header, Nav, Main, Side và Footer theo thông số 
+kích thước và vị trí yêu cầu. Tổng thể trang web phải được canh giữa trình duyệt 
+theo chiều ngang. -> 1/1
+-Định dạng phần Header bao gồm cả dữ liệu. -> 0.5/0.5
+-Định dạng phần Nav bao gồm cả dữ liệu. -> 0.5/0.5
+-Định dạng phần Footer bao gồm cả dữ liệu. -> 0.5/0.5
+-Định dạng phần Side bao gồm cả dữ liệu. -> 0.5/0.5
+-Định dạng phần Process Text (có đủ phần điều khiển cách highlight) 
+bao gồm cả dữ liệu. -> 1/1
+-Định dạng phần Drag & Drop bao gồm cả dữ liệu -> 0.5/0.5
+-Cho phép đóng mở (thu gọn) của NEWS. 	-> 0.5/0.5
+-Cho phép thay đổi thứ tự các NEWS. Nếu không có kéo thả thì chỉ đạt 25%   -> 1/1.
+-Xử lý được Sample Text tương ứng với điều khiển cách highlight.    -> 1/1
+-Xử lý highlight cho chuỗi text. (do không thể lưu lại lịch sử đã hightlight nên mỗi lần
+highlight sẽ bị reset lại) -> 0.5/1
+-Xử lý delete cho chuỗi text.	-> 1/1
+-Xử lý reset cho chuỗi text.	-> 0.5/0.5
+-Xử lý thêm item theo lựa chọn (item mới thêm nằm cuối cùng). (Thêm được icon vào cuối
+nhưng bị lỗi layout không fix được) -> 0.25 / 1
+-Xử lý kéo thả item có kết thúc là vào vị trí đảm bảo hàng cột 
+(chưa cần đúng vị trí chọn) (Có thể kéo thả item vào vị trí bất kỳ nhưng vẫn là
+lỗi layout phía trên) -> 0.25/1
+-Xử lý tạo chỗ trống khi kéo item vào vị trí có hiệu ứng animation. (Vẫn lỗi layout
+phía trên nhưng đáp ứng được yêu cầu) -> 0.25/1
+-Xử lý thả item về vị trí chọn (có hiệu ứng animation).
+-Có highlight vị trí item sẽ được thả vào. -> 0.5/0.5
+-Đáp ứng responsive với độ phân giải 768px. -> 0/0.5
+
+Tổng điểm đề nghị: 10.25
